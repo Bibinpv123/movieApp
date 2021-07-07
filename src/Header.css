@@ -1,0 +1,27 @@
+.search_input {
+  height: 28px;
+  width: 250px;
+}
+.header_searchicon {
+  height: 28px !important;
+  color: black;
+}
+.search {
+  display: flex;
+  align-items: right;
+  border-radius: 20px;
+  margin-top: 77px;
+}
+.header {
+  height: 120px;
+  display: flex;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.header_val {
+  font-size: 38px;
+}
+.wrapper {
+  margin: 10px 800px 4px 32px;
+}

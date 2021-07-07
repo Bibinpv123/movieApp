@@ -1,0 +1,6 @@
+.action_cont {
+  width: auto;
+  display: flex;
+  overflow: auto;
+  margin-right: 10px;
+}
